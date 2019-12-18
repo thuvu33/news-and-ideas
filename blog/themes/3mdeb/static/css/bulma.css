@@ -9713,6 +9713,9 @@ li.submenu {
 ol > li {
   text-align: left;
 }
+ol > li.bigmenu {
+  text-align: center;
+}
 
 ol > li:hover > a {
   color:#38d430;
